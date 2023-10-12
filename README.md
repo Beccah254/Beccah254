@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beccah254
+- 👋 Hi, I’m @beccah254
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning PHP,C,SQL and Python
 - 💞️ I’m looking to collaborate on the above mentioned languages
